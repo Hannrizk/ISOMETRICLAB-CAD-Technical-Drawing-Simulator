@@ -1,5 +1,5 @@
 # ISOMETRIC LAB
-### TOPIK 10 — Proyeksi Piktorial Isometri: Normal • Terbalik • Horizontal
+### TOPIK 10 Proyeksi Piktorial Isometri: Normal • Terbalik • Horizontal
 
 **ISOMETRIC LAB** adalah media pembelajaran interaktif berbasis CAD yang dirancang untuk membantu pengguna mempelajari dan mempraktikkan teknik menggambar proyeksi piktorial isometri.
 
